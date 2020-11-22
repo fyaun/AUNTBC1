@@ -1,0 +1,211 @@
+
+img{
+  max-width: 100%;
+  height: auto;
+  width: 10%;
+}
+
+iframe{
+  width: 100%;
+}
+
+
+h1 {
+  font-size: 120px;
+  font-family: 'Arial',YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN',
+  'ヒラギノ角ゴ ProN W3','メイリオ', Meiryo,'ＭＳ ゴシック' ,sans-serif;
+}
+
+h3 {
+  font-size: 70px;
+  font-family: 'Arial',YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN',
+  'ヒラギノ角ゴ ProN W3','メイリオ', Meiryo,'ＭＳ ゴシック' ,sans-serif;
+}
+
+h1, h3 {
+  color: white;
+  position: relative;
+  top: 150px;
+  left: 0px;
+  font-style: normal;
+}
+
+.one{
+  position: relative;
+  top: 100px;
+}
+
+p{
+  position: relative;
+  top: 400px;
+  left: 0px;
+
+  color: white;
+  font-size: 20px;
+}
+
+.header1{
+  font-size: 20px;
+  color: white;
+  background: black;
+}
+
+.page-footer{
+  position: relative;
+  top: 300px;
+}
+
+
+a {
+  color: white;
+}
+
+ div {
+   display: block;
+ }
+
+
+ #page_top {
+   width: 50px;
+   height: 50px;
+   position: fixed;
+   right: 0;
+   bottom: 0;
+   background-color: white;
+   opacity: 0.6;
+   border-radius: 50%;
+ }
+
+　#page_top a {
+  position: relative;
+  display: block;
+  width: 50px;
+  height: 50px;
+  text-decoration: none;
+}
+
+#page_top a::before {
+   font-family: 'Font Awesome 5 Free';
+   font-weight: 900;
+   content: '\f0d8';
+   font-size: 25px;
+   color: black;
+   position: absolute;
+   width: 25px;
+   height: 25px;
+   top: -5px;
+   bottom: 0;
+   right: 0;
+   left: 0;
+   margin: auto;
+   text-align: center;
+}
+
+ script {
+   display: none;
+ }
+
+body{
+  background-color: black;
+  background-image: url(IMG_1830.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+  font-size: 15px;
+  font-family: serif;
+}
+
+
+@media screen and (max-width:600px) {
+
+	/*　画面サイズが600px以下の場合ここの記述が適用される　*/
+main{
+  width: 100%;
+    }
+
+    * {
+   	float: none;
+   	position: static;
+   }
+
+   img {
+   	max-width: 100%;
+   	height: auto;
+    width: 15%;
+   }
+
+   .header1{
+     font-size: 10px;
+         }
+
+
+   h1{
+     font-size: 70px;
+     position: relative;
+     top: 250px;
+
+   }
+
+   h3{
+     font-size: 40px;
+     position: relative;
+     top: 250px;
+   }
+
+  .one{
+    position: relative;
+    top: 200px;
+  }
+
+   p{
+     font-size: 15px;
+   }
+
+   .footer{
+     position: relative;
+     top: 250px;
+   }
+
+   body{
+     background-color: black;
+     background-image: url(IMG_1830.jpg);
+     background-repeat: no-repeat;
+     background-position: 50% 50%;
+     background-size: cover;
+     padding: 1em;
+     background-attachment: fixed;
+   }
+
+
+  }
+
+@media screen and (max-width:1024px) and (orientation: portrait) {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
