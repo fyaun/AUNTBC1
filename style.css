@@ -11,13 +11,13 @@ iframe{
 
 
 h1 {
-  font-size: 120px;
+  font-size: 70px;
   font-family: 'Arial',YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN',
   'ヒラギノ角ゴ ProN W3','メイリオ', Meiryo,'ＭＳ ゴシック' ,sans-serif;
 }
 
 h3 {
-  font-size: 70px;
+  font-size: 30px;
   font-family: 'Arial',YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN',
   'ヒラギノ角ゴ ProN W3','メイリオ', Meiryo,'ＭＳ ゴシック' ,sans-serif;
 }
@@ -109,8 +109,8 @@ body{
   background-color: black;
   background-image: url(IMG_1830.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
-  background-attachment: fixed;
+  background-size: contain;
+  background-attachment: scroll;
 
   font-size: 15px;
   font-family: serif;
@@ -141,14 +141,14 @@ main{
 
 
    h1{
-     font-size: 70px;
+     font-size: 40px;
      position: relative;
      top: 250px;
 
    }
 
    h3{
-     font-size: 40px;
+     font-size: 15px;
      position: relative;
      top: 250px;
    }
@@ -172,9 +172,9 @@ main{
      background-image: url(IMG_1830.jpg);
      background-repeat: no-repeat;
      background-position: 50% 50%;
-     background-size: cover;
+     background-size: contain;
      padding: 1em;
-     background-attachment: fixed;
+     background-attachment: scroll;
    }
 
 
