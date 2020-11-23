@@ -183,7 +183,7 @@ main{
    	max-width: 100%;
    	height: auto;
     position: relative;
-    bottom: 170px;
+    bottom: 160px;
     left: 150px;
    }
 
@@ -195,7 +195,7 @@ main{
    }
 
    p {
-     font-size: 5px;
+     font-size: 7px;
    }
 
    .one {
