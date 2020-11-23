@@ -183,14 +183,14 @@ main{
    	max-width: 100%;
    	height: auto;
     position: relative;
-    bottom: 160px;
+    bottom: 170px;
     left: 150px;
    }
 
 
    h1{
      position: relative;
-     top: 100px;
+     top: 50px;
      font-size: 40px;
    }
 
