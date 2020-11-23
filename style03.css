@@ -98,7 +98,13 @@ img{
   max-width: 100%;
 }
 
-
+body{
+background-color: black;
+background-image: url(IMG_2309.PNG);
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
 
 }
 
