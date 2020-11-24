@@ -130,8 +130,6 @@ main{
    }
 
    img {
-	   position: relative;
-	   bottom: 200px;
    	max-width: 100%;
    	height: auto;
     width: 25%;
