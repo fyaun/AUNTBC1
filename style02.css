@@ -89,6 +89,8 @@ h1{
   text-align: center;
   font-weight: bold;
   font-size: 60px;
+  font-family: 'Arial',YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN',
+  'ヒラギノ角ゴ ProN W3','メイリオ', Meiryo,'ＭＳ ゴシック' ,sans-serif;
 }
 
 
@@ -96,6 +98,8 @@ p{
   text-align: center;
   font-style: oblique;
   font-weight: bold;
+  font-family: 'Arial',YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN',
+  'ヒラギノ角ゴ ProN W3','メイリオ', Meiryo,'ＭＳ ゴシック' ,sans-serif;
 }
 
 
@@ -104,6 +108,7 @@ p{
   position: relative;
   top: 450px;
   right: 470px;
+
 }
 
 
@@ -192,7 +197,9 @@ main{
      position: relative;
      top: 150px;
      font-size: 40px;
-   }
+     font-family: 'Arial',YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN',
+     'ヒラギノ角ゴ ProN W3','メイリオ', Meiryo,'ＭＳ ゴシック' ,sans-serif;
+}
 
    p {
      font-size: 10px;
