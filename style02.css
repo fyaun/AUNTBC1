@@ -266,11 +266,12 @@ main{
  .box {
  max-width: 100%;
  height: auto;
- width: 55%;
+ width: 100%;
  position: relative;
  top: 270px;
  right: 150px;
-}
+ }
+	
    body{
      background-image: url(kabe.JPG);
      background-repeat: repeat;
