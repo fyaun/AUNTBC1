@@ -260,7 +260,7 @@ main{
 }
    body{
      background-image: url(kabe.JPG);
-     background-repeat: no-repeat;
+     background-repeat: repeat;
      background-size: cover;
      background-attachment:fixed;
    }
