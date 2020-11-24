@@ -188,14 +188,14 @@ main{
     max-width: 100%;
     height: auto;
     position: relative;
-    bottom: 250px;
+    bottom: 230px;
     left: 150px;
    }
 
 
    h1{
      position: relative;
-     top: 150px;
+     top: 170px;
      font-size: 40px;
      font-family: 'Arial',YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN',
      'ヒラギノ角ゴ ProN W3','メイリオ', Meiryo,'ＭＳ ゴシック' ,sans-serif;
