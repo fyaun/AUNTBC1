@@ -195,8 +195,11 @@ main{
    }
 
    p {
-     font-size: 8px;
+     font-size: 10px;
      font-weight: bold;
+
+     font-family: 'Arial',YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN',
+       'ヒラギノ角ゴ ProN W3','メイリオ', Meiryo,'ＭＳ ゴシック' ,sans-serif;
    }
 
    .one {
@@ -261,6 +264,6 @@ main{
    body{
      background-image: url(kabe.JPG);
      background-repeat: repeat;
-     background-size: cover;
+     background-size: contain;
      background-attachment:fixed;
    }
