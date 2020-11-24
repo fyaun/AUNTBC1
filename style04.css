@@ -15,8 +15,11 @@ h1{
 }
 
 p{
-  font-size: 20px;
+  font-size: 30px;
   color: white;
+  
+  font-family: 'Arial',YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN',
+  'ヒラギノ角ゴ ProN W3','メイリオ', Meiryo,'ＭＳ ゴシック' ,sans-serif;
 }
 .parent{
   text-align: center;
@@ -90,7 +93,10 @@ h1 {
 }
 
 p{
-  font-size: 10px;
+  font-size: 15px;
+  
+  font-family: 'Arial',YuGothic,'Yu Gothic','Hiragino Kaku Gothic ProN',
+  'ヒラギノ角ゴ ProN W3','メイリオ', Meiryo,'ＭＳ ゴシック' ,sans-serif;
 }
 
 body{
