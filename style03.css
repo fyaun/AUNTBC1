@@ -93,6 +93,10 @@ background-attachment: fixed;
 p{
   font-size: 12px;
 }
+  
+h1{
+  font-size: 20px;
+  }
 
 img{
   max-width: 100%;
