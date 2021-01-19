@@ -6,6 +6,25 @@ img{
   bottom: 50px;
 }
 
+a {
+  position: relative;
+  top: 120px;
+  text-decoration: none;
+  display: block;
+  text-align: center;
+  font-size: 14px;
+  background: #08c;
+  border-radius: 4px;
+  padding: 12px;
+  color: #fff;
+}
+
+
+a:hover {
+  opacity: 0.8;
+}
+
+
 iframe{
   width: 100%;
 }
